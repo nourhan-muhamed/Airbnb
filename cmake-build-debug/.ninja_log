@@ -1,0 +1,21 @@
+# ninja log v5
+4500	4650	1653960830793113814	airbnb	dda9a146e83155a7
+3822	5737	6756613156547810	airbnb.exe	93d26f872c5380d6
+0	25	0	clean	b72c21c3e92959a
+34	3544	6756645444228498	CMakeFiles/airbnb.dir/main.cpp.obj	7fb8c18be268c208
+57	3692	6756645446324976	CMakeFiles/airbnb.dir/classes/Signup_Login.cpp.obj	7196226f9329d36a
+72	3695	6756645446026773	CMakeFiles/airbnb.dir/classes/Start.cpp.obj	b8cf95388fd63cac
+61	4015	6756645449249839	CMakeFiles/airbnb.dir/classes/City.cpp.obj	9403a11ff8019309
+60	4019	6756645449326358	CMakeFiles/airbnb.dir/classes/Place.cpp.obj	78fa27b1b2eb3548
+59	6135	6756645469326827	CMakeFiles/airbnb.dir/classes/includes/LinkedList.cpp.obj	6a66ec251fe031a0
+3696	6583	6756645474926616	CMakeFiles/airbnb.dir/classes/users/Person.cpp.obj	c1ca06be4550457b
+4015	6910	6756645478510870	CMakeFiles/airbnb.dir/classes/users/Traveler.cpp.obj	5bebab7e2266e205
+4019	7061	6756645479206378	CMakeFiles/airbnb.dir/classes/users/Host.cpp.obj	76f9f95f14671af8
+3546	7064	6756645479725991	CMakeFiles/airbnb.dir/classes/includes/cdate.cpp.obj	49e0fc5cf3feecfe
+3692	7130	6756645480777762	CMakeFiles/airbnb.dir/classes/Reservation.cpp.obj	fd17fd1ad8a88f8e
+6135	8144	6756645491112136	CMakeFiles/airbnb.dir/classes/users/Admin.cpp.obj	1443422cace549ba
+6910	8741	6756645497221683	CMakeFiles/airbnb.dir/classes/users/User.cpp.obj	194b35a27f40bf9e
+6584	9730	6756645507088147	CMakeFiles/airbnb.dir/classes/includes/ArrayList.cpp.obj	d95b4e7d995b674
+9730	12035	6756645530060984	airbnb.exe	93d26f872c5380d6
+3	1781	6756650158822278	CMakeFiles/airbnb.dir/classes/users/Admin.cpp.obj	1443422cace549ba
+1781	4113	6756650182125752	airbnb.exe	93d26f872c5380d6
